@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: plum;
+}
+
+.left{
+    display: flex;
+    justify-content: flex-start;
+    background-color: beige;
+}
+
+.right{
+    display: flex;
+    justify-content: flex-end;
+    background-color: azure;
+}
+
+
+.footer{
+    display: flex;
+    align-items: flex-end;
+}
